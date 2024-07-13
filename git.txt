@@ -1,0 +1,5 @@
+first of all we have to download the git for windows .after completing download install git on 
+desktop computer.then open vs code then select a folder and create a file .
+open new terminal in vs code.
+git init to
+
