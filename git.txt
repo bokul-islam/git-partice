@@ -1,5 +1,35 @@
 first of all we have to download the git for windows .after completing download install git on 
 desktop computer.then open vs code then select a folder and create a file .
 open new terminal in vs code.
-git init to
+
+    git config --global user.name "BokulIslam2"
+    git config --global user.email "bokulislam873@gmail.com"
+    git config --global user.name
+    git config --global user.email
+
+    git init 
+    git add .
+    git status
+    git diff
+
+    git commit -m "git basic"
+    git log
+    git log --oneline
+    
+    create a repository in github
+    git remote add origin https://github.com/bokul-islam/git-partice.git
+    git branch -M main
+    git push -u origin main
+    git push
+    
+    git reset --soft commit id
+    git reset --soft HEAD
+    git reset --hard commit id
+    git reset
+
+   To add gitignore to any file 
+   create a .gitignore file and just write the file name 
+   
+
+    today that's all.
 
